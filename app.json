@@ -1,0 +1,12 @@
+{
+  "name": "whynot",
+  "displayName": "whynot",
+  "expo": {
+    "name": "whynot",
+    "slug": "whynot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
