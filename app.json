@@ -1,12 +1,15 @@
 {
-  "name": "whynot",
-  "displayName": "whynot",
+  "name": "ProjetEnveloppes",
+  "displayName": "ProjetEnveloppes",
   "expo": {
-    "name": "whynot",
-    "slug": "whynot",
+    "name": "ProjetEnveloppes",
+    "slug": "ProjetEnveloppes",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.itchae.ProjetEnveloppes"
+    }
   }
 }
